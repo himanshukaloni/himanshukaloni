@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Himanshu Kaloni
 
-### MERN Stack Developer • BCA Student • Full-Stack Web Developer
+### Building Ideas Into Real-World Products
 
 <a href="https://github.com/himanshukaloni"><img src="https://img.shields.io/badge/GitHub-himanshukaloni-111111?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:himanshukaloni99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -57,14 +57,18 @@ Goal        : Build production-ready applications
 BUILD → LEARN → IMPROVE → SHIP → REPEAT
 ```
 
----
+
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
+<a href="https://himanshukaloni.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-himanshukaloni.vercel.app-F59E0B?style=for-the-badge&logo=vercel&logoColor=111111">
+</a>
+
 <a href="mailto:himanshukaloni99@gmail.com">
-<img src="https://img.shields.io/badge/Email-himanshukaloni99%40gmail.com-F59E0B?style=for-the-badge&logo=gmail&logoColor=111111">
+<img src="https://img.shields.io/badge/Email-himanshukaloni99%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/himanshukaloni">

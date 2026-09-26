@@ -20,7 +20,7 @@ Name        : Himanshu Kaloni
 Role        : MERN Stack Developer
 Education   : BCA — 3rd Year
 Focus       : Full-Stack Web Development
-Interests   : Backend Development • AI Apps • DSA • System Design
+Interests   : Backend Development • DSA 
 Goal        : Build production-ready applications
 ```
 
@@ -29,61 +29,25 @@ Goal        : Build production-ready applications
 - 🛠️ I develop APIs and backend systems with **Node.js and Express.js**.
 - 🗄️ I work with **MongoDB and MySQL**.
 - 🤖 I'm interested in **AI-powered applications and integrations**.
-- 🧠 I'm improving **DSA, problem solving and system design**.
+- 🧠 I'm improving **DSA, problem solving **.
 
 ---
-
-## ⚡ Tech Stack
-
-### Languages
-<p><img src="https://skillicons.dev/icons?i=js,java,cpp,python"></p>
-
-### Frontend
-<p><img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css"></p>
-
-### Backend & Databases
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"></p>
-
-### Tools
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"></p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🛍️ **[ShopPilot](https://shoppilot-11ey.vercel.app/)** | Retail management platform with dashboard, inventory, products, sales and customer workflows. | React • Node.js • Express • MongoDB |
-| 🧵 **[Atelier](https://atelier-mywz.vercel.app/)** | Modern e-commerce experience focused on products, collections and orders. | React • Node.js • Express • MongoDB |
-| 🤖 **[AI Knowledge Base](https://ai-knowledge-base-bydt.vercel.app/)** | AI-powered workspace for document-driven conversations and knowledge management. | React • Node.js • MongoDB • AI |
-| 📄 **[Resume ATS Roadmap](https://github.com/himanshukaloni/resume-ats-roadmap)** | Resume analysis platform that turns feedback into a structured improvement roadmap. | React • Node.js • MongoDB • AI |
-
----
-
-## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=himanshukaloni&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent">
+### `02` — TECHNOLOGIES I USE
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukaloni&layout=compact&hide_border=true&langs_count=8&theme=transparent">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,mysql,java,cpp,python,git,github,vscode,postman,vercel&perline=9" />
 
-<br><br>
+<br />
+<br />
 
-<img src="https://streak-stats.demolab.com?user=himanshukaloni&hide_border=true&theme=transparent">
+`React` · `Vite` · `Tailwind CSS` · `Node.js` · `Express.js` · `MongoDB` · `MySQL` · `JavaScript` · `Java` · `C++` · `Python` · `Git` · `GitHub`
 
 </div>
 
----
 
-## 🧠 Currently Learning
 
-| 🧩 DSA | 🏗️ System Design |
-|---|---|
-| 🔌 REST API Architecture | 🗄️ Database Design |
-| ⚡ Advanced React | 🤖 AI Integration |
-
----
 
 ## 🎯 2027 Goal
 

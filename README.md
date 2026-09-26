@@ -49,41 +49,6 @@ Goal        : Build production-ready applications
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🛍️ **[ShopPilot](https://shoppilot-11ey.vercel.app/)** | Retail management platform with dashboard, inventory, products, sales and customer workflows. | React • Node.js • Express • MongoDB |
-| 🧵 **[Atelier](https://atelier-mywz.vercel.app/)** | Modern e-commerce experience focused on products, collections and orders. | React • Node.js • Express • MongoDB |
-| 🤖 **[AI Knowledge Base](https://ai-knowledge-base-bydt.vercel.app/)** | AI-powered workspace for document-driven conversations and knowledge management. | React • Node.js • MongoDB • AI |
-| 📄 **[Resume ATS Roadmap](https://github.com/himanshukaloni/resume-ats-roadmap)** | Resume analysis platform that turns feedback into a structured improvement roadmap. | React • Node.js • MongoDB • AI |
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=himanshukaloni&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukaloni&layout=compact&hide_border=true&langs_count=8&theme=transparent">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=himanshukaloni&hide_border=true&theme=transparent">
-
-</div>
-
----
-
-## 🧠 Currently Learning
-
-| 🧩 DSA | 🏗️ System Design |
-|---|---|
-| 🔌 REST API Architecture | 🗄️ Database Design |
-| ⚡ Advanced React | 🤖 AI Integration |
-
----
 
 ## 🎯 2027 Goal
 

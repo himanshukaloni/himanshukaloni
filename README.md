@@ -79,6 +79,4 @@ BUILD → LEARN → IMPROVE → SHIP → REPEAT
 
 ### 💡 Build things that solve real problems.
 
-<img src="https://komarev.com/ghpvc/?username=himanshukaloni&style=flat-square&color=F59E0B&label=PROFILE+VIEWS">
-
 </div>

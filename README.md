@@ -35,7 +35,7 @@ Goal        : Build production-ready applications
 
 <div align="center">
 
-### `02` — TECHNOLOGIES I USE
+###  TECHNOLOGIES I USE
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,mysql,java,cpp,python,git,github,vscode,postman,vercel&perline=9" />
 

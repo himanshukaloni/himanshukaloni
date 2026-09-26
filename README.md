@@ -7,7 +7,7 @@
 <a href="https://github.com/himanshukaloni"><img src="https://img.shields.io/badge/GitHub-himanshukaloni-111111?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:himanshukaloni99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=F59E0B&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+MySQL;Learning+DSA+%26+System+Design;Turning+ideas+into+working+products" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=F59E0B&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;React+%7C+Node.js+%7C+MongoDB+%7C+MySQL;Learning+DSA+%26;Turning+ideas+into+working+products" alt="Typing animation">
 
 </div>
 

@@ -4,75 +4,98 @@
 
 ### Building Ideas Into Real-World Products
 
-<p>
-  <a href="https://himanshukaloni.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-F59E0B?style=for-the-badge&labelColor=111111" />
-  </a>
-  <a href="mailto:himanshukaloni99@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/himanshukaloni">
-    <img src="https://img.shields.io/badge/💻%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[🌐 Portfolio] [📧 Email] [💻 GitHub]
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&lines=Building+modern+web+experiences;Turning+ideas+into+working+products;Learning+through+real-world+projects;Exploring+AI+and+modern+technologies;Build+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Ship"
-  alt="Typing Animation"
-/>
+<img src="YOUR_TYPING_GIF_OR_ANIMATION" />
 
 </div>
 
 ---
 
+## 👋 About Me
+
 <div align="center">
 
-## `01` — WHO I AM
+<img src="YOUR_COOL_DEVELOPER_GIF" width="400" />
 
 </div>
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-## Hey, I'm Himanshu 👋
-
-I'm a **BCA 3rd-year student** who enjoys building modern web applications and turning ideas into working products.
-
-I like working across the complete development process — from designing an interface and writing APIs to connecting databases and deploying applications.
-
-### Currently focused on
+I'm a BCA 3rd-year student who enjoys building modern web applications
+and turning ideas into working products.
 
 - 🚀 Building real-world web applications
-- ⚛️ Modern React development
-- 🛠️ Node.js & Express APIs
-- 🗄️ MongoDB & MySQL
-- 🤖 AI-powered applications
-- 🧠 DSA & problem solving
-- 🏗️ Backend architecture & system design
+- ⚛️ Creating modern interfaces
+- 🛠️ Developing APIs and application workflows
+- 🤖 Exploring AI-powered applications
+- 🧠 Improving DSA and problem solving
+- 🏗️ Learning system design
 
-</td>
+---
 
-<td width="42%" valign="top">
+## ⚡ Technologies & Tools
 
-```js
-const himanshu = {
-  name: "Himanshu Kaloni",
+<div align="center">
 
-  education: "BCA — 3rd Year",
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,mysql,java,cpp,python,git,github,vscode,postman,vercel,npm&perline=10" />
 
-  building: [
-    "Web Applications",
-    "AI Projects",
-    "Developer Tools"
-  ],
+<br><br>
 
-  learning: [
-    "DSA",
-    "System Design",
-    "Backend Architecture"
-  ],
+`HTML` · `CSS` · `JavaScript` · `React` · `Vite` · `Tailwind CSS` ·
+`Node.js` · `Express.js` · `MongoDB` · `MySQL` · `Java` · `C++` ·
+`Python` · `Git` · `GitHub` · `VS Code` · `Postman` · `Vercel`
 
-  philosophy:
-    "Build. Learn. Improve. Ship."
-};
+</div>
+
+---
+
+## 🚀 Featured Work
+
+### 🛍️ ShopPilot
+Retail Management Platform
+
+### 🤖 AI Knowledge Base
+AI-Powered Knowledge Workspace
+
+### 📄 Resume ATS Roadmap
+Resume Improvement Platform
+
+### 🧵 Atelier
+Modern E-Commerce Experience
+
+<div align="center">
+
+**[View More →](https://github.com/himanshukaloni)**
+
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+🧩 DSA • 🏗️ System Design • 🔌 Backend Architecture • 🤖 AI
+
+---
+
+## 📊 GitHub
+
+[GitHub stats here]
+
+---
+
+## 🎯 What's Next?
+
+> Build. Learn. Improve. Ship.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[🌐 Portfolio](https://himanshukaloni.vercel.app/)
+
+[📧 Email](mailto:himanshukaloni99@gmail.com)
+
+[💻 GitHub](https://github.com/himanshukaloni)
+
+</div>

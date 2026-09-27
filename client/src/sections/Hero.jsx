@@ -8,7 +8,7 @@ const code = [
   '  role: "MERN Stack Developer",',
   '  focus: ["Build", "Learn", "Improve"],',
   '  currently: "BCA 3rd Year",'
-  "};",
+  "};"
 ];
 
 export default function Hero() {

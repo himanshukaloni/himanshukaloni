@@ -7,8 +7,7 @@ const code = [
   '  name: "Himanshu Kaloni",',
   '  role: "MERN Stack Developer",',
   '  focus: ["Build", "Learn", "Improve"],',
-  '  currently: "BCA 3rd Year",',
-  '  goal: "TCS 2027"',
+  '  currently: "BCA 3rd Year",
   "};",
 ];
 

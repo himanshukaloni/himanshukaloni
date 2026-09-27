@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://himanshukaloni.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Website-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Website-F59E0B?style=for-the-badge&labelColor=111111">
 </a>
 
 <a href="mailto:himanshukaloni99@gmail.com">
@@ -17,7 +17,7 @@
 <br><br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=80&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20IMPROVE&fontSize=24&fontColor=FFFFFF"
+src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=90&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20IMPROVE%20%E2%80%A2%20SHIP&fontSize=24&fontColor=F59E0B"
 width="90%"
 />
 
@@ -31,7 +31,7 @@ I'm **Himanshu Kaloni**, a BCA 3rd-year student who enjoys building modern web a
 
 I like combining **clean interfaces, useful functionality and practical engineering** to create projects that feel like real products rather than simple practice applications.
 
-### What I enjoy
+### What I Enjoy
 
 - 🚀 Building real-world web applications
 - ⚛️ Creating modern and interactive interfaces
@@ -63,47 +63,89 @@ I like combining **clean interfaces, useful functionality and practical engineer
 
 ---
 
-## ✨ My Development Philosophy
+## 🚀 Featured Work
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 💡 THINK
+### 🛍️ ShopPilot
 
-Understand the problem before writing the solution.
+A modern retail management platform designed to manage products, inventory and business workflows.
 
-</td>
+**Tech:** React · Node.js · Express · MongoDB
 
-<td align="center" width="25%">
+<br>
 
-### 🎨 DESIGN
-
-Create interfaces that are simple, useful and enjoyable.
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️ BUILD
-
-Turn ideas into functional and reliable applications.
+<a href="https://shoppilot-11ey.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-F59E0B?style=for-the-badge&labelColor=111111">
+</a>
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🚀 SHIP
+### 🧠 AI Knowledge Base
 
-Deploy, improve and keep building.
+An AI-powered knowledge workspace focused on organizing information and creating intelligent workflows.
+
+**Tech:** React · Node.js · MongoDB · AI APIs
+
+<br>
+
+<a href="https://ai-knowledge-base-bydt.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-F59E0B?style=for-the-badge&labelColor=111111">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📄 Resume ATS Roadmap
+
+A practical platform focused on improving resumes and understanding ATS-friendly career preparation.
+
+**Tech:** React · Node.js · MongoDB · AI
+
+<br>
+
+<a href="https://github.com/himanshukaloni/resume-ats-roadmap">
+<img src="https://img.shields.io/badge/PROJECT-F59E0B?style=for-the-badge&labelColor=111111">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 Atelier
+
+A modern e-commerce experience with a clean interface and complete shopping workflow.
+
+**Tech:** React · Node.js · Express · MongoDB
+
+<br>
+
+<a href="https://atelier-mywz.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-F59E0B?style=for-the-badge&labelColor=111111">
+</a>
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<a href="https://github.com/himanshukaloni">
+<img src="https://img.shields.io/badge/VIEW%20MORE%20PROJECTS%20→-111111?style=for-the-badge&labelColor=F59E0B&color=111111">
+</a>
 
 </div>
 
@@ -113,13 +155,43 @@ Deploy, improve and keep building.
 
 <div align="center">
 
-### Modern Interfaces
+<table>
+<tr>
 
-### Real-World Applications
+<td align="center" width="25%">
 
-### AI Experiments
+### 🌐
 
-### Better Engineering
+**Modern Interfaces**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Real-World Applications**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI Experiments**
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Better Engineering**
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -134,7 +206,7 @@ Deploy, improve and keep building.
 <div align="center">
 
 <a href="https://himanshukaloni.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Website-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Website-F59E0B?style=for-the-badge&labelColor=111111">
 </a>
 
 <a href="mailto:himanshukaloni99@gmail.com">
@@ -148,5 +220,13 @@ Deploy, improve and keep building.
 <br>
 
 `BUILD • LEARN • IMPROVE • SHIP`
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:111111&height=80&section=footer">
 
 </div>

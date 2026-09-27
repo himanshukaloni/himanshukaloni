@@ -1,41 +1,78 @@
-# Himanshu Kaloni — Advanced Portfolio
+<div align="center">
 
-A responsive, animated React + Vite portfolio for Himanshu Kaloni.
+# HIMANSHU KALONI
 
-## Included
-- Premium dark/light portfolio UI inspired by the supplied cinematic reference.
-- Large hero, animated code window, orbit visual, stats and CTA.
-- Advanced About section without a duplicated tech-stack block.
-- Animated skills/progress section and technology marquee.
-- Four project cards arranged 2-per-row on desktop, using the supplied project screenshots.
-- Direct `mailto:` contact flow — no SMTP variables or contact backend required.
-- Responsive mobile navigation, scroll progress, reveal animations and reduced-motion support.
-- React Bits-inspired interactive Dot Grid background. React Bits documents Dot Grid as a mouse-reactive background with configurable proximity/shock behavior. This project uses a lightweight canvas implementation of the same interaction style so it stays dependency-light. See https://reactbits.dev/c/backgrounds/dot-grid
+### Building Ideas Into Real-World Products
 
-## Run
+<p>
+  <a href="https://himanshukaloni.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-F59E0B?style=for-the-badge&labelColor=111111" />
+  </a>
+  <a href="mailto:himanshukaloni99@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/himanshukaloni">
+    <img src="https://img.shields.io/badge/💻%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-```bash
-cd client
-npm install
-npm run dev
-```
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&lines=Building+modern+web+experiences;Turning+ideas+into+working+products;Learning+through+real-world+projects;Exploring+AI+and+modern+technologies;Build+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Ship"
+  alt="Typing Animation"
+/>
 
-Production build:
+</div>
 
-```bash
-npm run build
-npm run preview
-```
+---
 
-## Project links
+<div align="center">
 
-- ShopPilot — https://shoppilot-11ey.vercel.app/
-- Atelier — https://atelier-mywz.vercel.app/
-- AI Knowledge Base — https://ai-knowledge-base-bydt.vercel.app/
-- Resume ATS Roadmap — https://github.com/himanshukaloni/resume-ats-roadmap
+## `01` — WHO I AM
 
-The first three GitHub buttons intentionally point to the user's GitHub profile because exact repository URLs were not supplied.
+</div>
 
-## Resume
+<table>
+<tr>
+<td width="58%" valign="top">
 
-The hero includes a download button for `/Himanshu_Kaloni_Resume.pdf`. Add the actual PDF to `client/public/` when you have the final resume.
+## Hey, I'm Himanshu 👋
+
+I'm a **BCA 3rd-year student** who enjoys building modern web applications and turning ideas into working products.
+
+I like working across the complete development process — from designing an interface and writing APIs to connecting databases and deploying applications.
+
+### Currently focused on
+
+- 🚀 Building real-world web applications
+- ⚛️ Modern React development
+- 🛠️ Node.js & Express APIs
+- 🗄️ MongoDB & MySQL
+- 🤖 AI-powered applications
+- 🧠 DSA & problem solving
+- 🏗️ Backend architecture & system design
+
+</td>
+
+<td width="42%" valign="top">
+
+```js
+const himanshu = {
+  name: "Himanshu Kaloni",
+
+  education: "BCA — 3rd Year",
+
+  building: [
+    "Web Applications",
+    "AI Projects",
+    "Developer Tools"
+  ],
+
+  learning: [
+    "DSA",
+    "System Design",
+    "Backend Architecture"
+  ],
+
+  philosophy:
+    "Build. Learn. Improve. Ship."
+};

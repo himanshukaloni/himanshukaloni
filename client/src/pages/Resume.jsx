@@ -38,7 +38,6 @@ export default function Resume() {
               <div><strong>Bachelor of Computer Applications</strong><span>Graphic Era Hill University</span></div>
               <b>2024 — 2027</b>
             </div>
-            <div className="resume-stat"><strong>7.46</strong><span>CGPA</span></div>
           </article>
 
           <article className="resume-card resume-skills">
